@@ -54,9 +54,6 @@ This repository features a custom ESP32-S3 development board designed for IoT, e
 
 ## Applications
 - IoT Development
-## About
-
-This custom ESP32-S3 development board was **designed by Kaushik Gupta** using Altium Designer.
 
 # Feel free to explore, contribute, or suggest improvements!  
 
